@@ -1,0 +1,2 @@
+- Beginner/learner programmer
+- UTC +3 timezone
